@@ -1,6 +1,10 @@
-### Ola Eu sou Marcos Aurelio 
+### Sobre mim...
 
-- 🔭 Hoje trabalho como desenvolvedor FullCycle 
+Sou desenvolvedor Full Stack e DevOps, trabalho atualmente na empresa [Ezops](https://ezops.cloud/)
+
+### Fatos
+
+- 👨🏻‍💻 &nbsp; Site [pessoal](http://portfoliodevops.s3-website-us-east-1.amazonaws.com/). 
 - 🌱 Estudando Typescript 
 - 😄 Pronouns: ele/dele
 
@@ -18,6 +22,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://files.fm/thumb_show.php?i=32rw92kba">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
 </div>
 
 ##
