@@ -5,7 +5,9 @@ Sou desenvolvedor Full Stack e DevOps, trabalho atualmente na empresa [Ezops](ht
 ### Fatos
 
 - 👨🏻‍💻 &nbsp; Site [pessoal](http://portfoliodevops.s3-website-us-east-1.amazonaws.com/). 
-- 🌱 Estudando Typescript 
+- 👾 &nbsp; Fato curioso: Igualdade nem sempre é igual em Javascript.
+- 📫 &nbsp; Mande um e-mail: marcosaureliofarias2023@gmail.com
+- 💙 &nbsp; Eu amo Games e Estudar 💻.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -29,6 +31,13 @@ Sou desenvolvedor Full Stack e DevOps, trabalho atualmente na empresa [Ezops](ht
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 ##
