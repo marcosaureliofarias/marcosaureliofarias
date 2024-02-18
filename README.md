@@ -1,6 +1,6 @@
 ### Sobre mim...
 
-Sou desenvolvedor Full Stack e DevOps, trabalho atualmente na empresa [Ezops](https://ezops.cloud/)
+Sou desenvolvedor Full Stack e DevOps
 
 ### Fatos
 
