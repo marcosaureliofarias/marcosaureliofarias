@@ -1,6 +1,6 @@
 ### Sobre mim...
 
-Sou desenvolvedor Full Stack e DevOps
+Sou desenvolvedor Backend
 
 ### Fatos
 
